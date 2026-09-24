@@ -46,3 +46,20 @@ Criteria: **efficiency** (targeting, deadweight), **equity** (reach to §2.5's g
 | **B. Adjustment wage insurance** | Half the wage gap for up to two years, capped at $15,000, for workers displaced from top-quintile-exposure occupations into lower pay; modelled on the US RTAA | Dormant until triggered; ~$100m/yr if active |
 | **C. Entry pathways subsidy** | Extends the existing wage subsidy of up to $10,000 (DEWR 2026b) to new entry-level roles with structured training in highly exposed occupations | 5,000 places; $50m/yr |
 | **D. Sensor and triggers** | Adds payroll (STP) data plus hiring-by-age, wage and regional indicators; publishes thresholds that activate B and scale C | ~$4m/yr |
+
+| Option | Efficiency | Equity | Feasibility | Cost | Robustness |
+|---|---|---|---|---|---|
+| A | ● | ● | ●● | ● | ● |
+| B | ●●● | ●● | ●● | ●●● | ●●● |
+| C | ●● | ●●● | ●●● | ●● | ●● |
+| D | ●●● | ● | ●●● | ●●● | ●●● |
+
+●●● strong · ●● moderate · ● weak.
+
+**A spends first and asks later.** Only about 3 in 10 eligible Singaporeans used a S$500 SkillsFuture top-up, partly because employers already funded their training (Ministry of Education Singapore 2025). A universal credit mostly buys training that would happen anyway and cannot target the exposed 4%.
+
+**B has the strongest evidence.** RTAA eligibility raised employment by 8–17 percentage points and paid for itself (Hyman et al. 2024). Germany's Qualifizierungsgeld acts earlier, replacing 60% of lost net pay during retraining, but favours insiders (Bundesagentur für Arbeit 2026; Berg 2026). Both reach only people with a job to lose, and §2.2 suggests the first losers are young people never hired.
+
+**C reaches that group**, with deadweight that the new-positions rule only partly limits (DEWR 2026b). **D closes the blind spot cheaply but helps no worker directly.** No option dominates: D plus a ready B and C covers both groups, and A is rejected.
+
+*Costing note (author's estimates):* B assumes average claims at 56% of the cap (the RTAA ratio; Hyman et al. 2024) and 12,000 claimants a year, 2% of ~590,000 high-exposure workers (JSA 2025; ABS 2026).
