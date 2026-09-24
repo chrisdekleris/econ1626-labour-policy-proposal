@@ -63,3 +63,17 @@ Criteria: **efficiency** (targeting, deadweight), **equity** (reach to §2.5's g
 **C reaches that group**, with deadweight that the new-positions rule only partly limits (DEWR 2026b). **D closes the blind spot cheaply but helps no worker directly.** No option dominates: D plus a ready B and C covers both groups, and A is rejected.
 
 *Costing note (author's estimates):* B assumes average claims at 56% of the cap (the RTAA ratio; Hyman et al. 2024) and 12,000 claimants a year, 2% of ~590,000 high-exposure workers (JSA 2025; ABS 2026).
+
+## 4. Recommended Package and Implementation Plan
+
+**See early, respond on cue:** build D now, pilot C, and legislate B but hold it dormant. Regulators cannot foresee how a technology will develop, so the package commits to rules and review points instead of forecasts (Hayek 1945; Berg 2026).
+
+| Phase | Action | Lead | When | Cost | KPI |
+|---|---|---|---|---|---|
+| 1 | Build option D: payroll data, new indicators, published triggers | DEWR Chief Economist, with ATO and ABS | Q4 2026 – Q1 2027 | ~$4m/yr | First STP-based update by 31 March 2027 |
+| 2 | Entry pathways pilot through Workforce Australia providers | DEWR Employment and Workforce | From 1 July 2027 | $50m/yr | 5,000 placements; ≥70% still employed at 12 months |
+| 3 | Legislate wage insurance, paid by Services Australia; dormant until triggered | DEWR, Services Australia, Treasury | Bill by mid-2027 | $0 dormant; ~$100m/yr active | Claimants re-employed faster than a matched comparison group |
+
+**Trigger.** B activates, and C scales to 15,000 places, when the exposure–employment relationship is significantly negative under DEWR's alternative measures for two quarters, DEWR's own confidence test (DEWR 2026a), or when youth hiring in top-quintile occupations falls a set margin below the least-exposed quintile.
+
+**Who pays and who gains.** Phases 1–2 cost about $54m a year ($0.2b over four years, against $7.4b for option A), reprioritised within DEWR's employment-services budget. A triggered B draws on consolidated revenue, and RTAA's record suggests much of it returns through higher earnings and taxes. A proposed US bill would fund worker transition by limiting AI data-centre tax concessions (Warner 2026); Australia's data-centre workforce conditions offer a similar hook (Berg 2026). Young entrants and displaced workers gain, while taxpayers carry a small, capped cost, as the Productivity Commission anticipates (PC 2025).
