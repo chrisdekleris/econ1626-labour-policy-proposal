@@ -77,3 +77,12 @@ Criteria: **efficiency** (targeting, deadweight), **equity** (reach to §2.5's g
 **Trigger.** B activates, and C scales to 15,000 places, when the exposure–employment relationship is significantly negative under DEWR's alternative measures for two quarters, DEWR's own confidence test (DEWR 2026a), or when youth hiring in top-quintile occupations falls a set margin below the least-exposed quintile.
 
 **Who pays and who gains.** Phases 1–2 cost about $54m a year ($0.2b over four years, against $7.4b for option A), reprioritised within DEWR's employment-services budget. A triggered B draws on consolidated revenue, and RTAA's record suggests much of it returns through higher earnings and taxes. A proposed US bill would fund worker transition by limiting AI data-centre tax concessions (Warner 2026); Australia's data-centre workforce conditions offer a similar hook (Berg 2026). Young entrants and displaced workers gain, while taxpayers carry a small, capped cost, as the Productivity Commission anticipates (PC 2025).
+
+## 5. Risks and Mitigations
+
+| Risk | Mitigation |
+|---|---|
+| Trigger fires on noise, as exposure measures disagree (DEWR 2026a) | Significance across measures for two quarters; annual JSA review |
+| Trigger fires too late | The youth-hiring leg watches the channel that moves first |
+| Wage insurance props up low-wage employers | Cap, two-year limit, top-quintile eligibility |
+| Deadweight in C | New positions only; 12-month evaluation |
