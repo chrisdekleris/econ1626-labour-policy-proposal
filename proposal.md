@@ -86,3 +86,41 @@ Criteria: **efficiency** (targeting, deadweight), **equity** (reach to §2.5's g
 | Trigger fires too late | The youth-hiring leg watches the channel that moves first |
 | Wage insurance props up low-wage employers | Cap, two-year limit, top-quintile eligibility |
 | Deadweight in C | New positions only; 12-month evaluation |
+
+## References
+
+Acemoglu, D 2024, 'The simple macroeconomics of AI', *Economic Policy*, vol. 40, no. 121, pp. 13-58, doi:10.1093/epolic/eiae042.
+
+Acemoglu, D & Restrepo, P 2019, 'Automation and new tasks: how technology displaces and reinstates labor', *Journal of Economic Perspectives*, vol. 33, no. 2, pp. 3-30, doi:10.1257/jep.33.2.3.
+
+Australian Bureau of Statistics (ABS) 2026, *Labour force, Australia, July 2026*, ABS, Canberra.
+
+Berg, C 2026, 'Public policy: why intervene, what to change, and who pays', lecture slides, ECON1626 Economics of Artificial Intelligence, Week 7, RMIT University, Melbourne.
+
+Brynjolfsson, E, Chandar, B & Chen, R 2026, *No widespread displacement, but the AI employment gap for young workers has widened to 19%*, Stanford Digital Economy Lab, viewed 22 September 2026, <https://digitaleconomy.stanford.edu/news/canariesaug26/>.
+
+Brynjolfsson, E, Li, D & Raymond, L 2025, 'Generative AI at work', *Quarterly Journal of Economics*, vol. 140, no. 2, pp. 889-942, doi:10.1093/qje/qjae044.
+
+Bundesagentur für Arbeit 2026, *Qualifizierungsgeld*, Bundesagentur für Arbeit, viewed 24 September 2026, <https://www.arbeitsagentur.de/unternehmen/finanziell/foerderung-von-weiterbildung/qualifizierungsgeld>.
+
+Department of Employment and Workplace Relations (DEWR) 2026a, *AI and employment in Australia: monitoring framework and evidence to date*, Office of the Chief Economist, DEWR, Canberra.
+
+Department of Employment and Workplace Relations (DEWR) 2026b, *Wage subsidies*, DEWR, viewed 22 September 2026, <https://www.dewr.gov.au/wage-subsidies>.
+
+Department of Employment and Workplace Relations (DEWR) 2026c, *Our executive*, DEWR, viewed 22 September 2026, <https://www.dewr.gov.au/about-department/our-executive>.
+
+Hayek, FA 1945, 'The use of knowledge in society', *American Economic Review*, vol. 35, no. 4, pp. 519-530.
+
+Humlum, A & Vestergaard, E 2025, *Still waters, rapid currents: early labor market transformation under generative AI*, NBER Working Paper no. 33777, National Bureau of Economic Research, Cambridge, MA, doi:10.3386/w33777.
+
+Hyman, BG, Kovak, BK & Leive, A 2024, *Wage insurance for displaced workers*, NBER Working Paper no. 32464, National Bureau of Economic Research, Cambridge, MA.
+
+Jobs and Skills Australia (JSA) 2025, *Our Gen AI transition: implications for work and skills*, JSA, Canberra.
+
+Ministry of Education Singapore 2025, *Reasons for low take-up rate of $500 SkillsFuture Credit top-up*, parliamentary reply, 5 November, viewed 22 September 2026, <https://www.moe.gov.sg/news/parliamentary-replies/20251105-reasons-for-low-take-up-rate-of-$500-skillsfuture-credit-top-up>.
+
+Parliament of Australia 2026, *Joint Select Committee on Artificial Intelligence*, viewed 24 September 2026, <https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence>.
+
+Productivity Commission (PC) 2025, *Harnessing data and digital technology*, Inquiry Report no. 111, PC, Canberra.
+
+Warner, M 2026, *Warner rolls out comprehensive AI legislative agenda focused on responsible innovation, workers, and national security*, media release, 21 July, viewed 24 September 2026, <https://www.warner.senate.gov/newsroom/press-releases/warner-rolls-out-comprehensive-ai-legislative-agenda-focused-on-responsible-innovation-workers-and-national-security/>.
