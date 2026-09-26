@@ -6,6 +6,8 @@ This brief advises the Deputy Secretary, Employment and Workforce, Department of
 
 ## Executive Summary
 
+DEWR finds no broad AI disruption in Australia yet, but employment in the most-exposed occupations is growing more slowly, and US evidence suggests the first effect will be fewer young people hired into exposed jobs. DEWR's framework cannot see that channel and attaches no response to any result. Four options are compared against five criteria, and a universal skills credit (~$7.4b) is rejected as poorly targeted. The recommended package builds the sensor now, adding payroll, hiring-by-age and wage indicators; pilots an entry pathways subsidy for young workers; and legislates wage insurance that switches on only when published triggers are met. It costs about $54m a year until a trigger fires. The first KPI is an STP-based monitoring update by 31 March 2027.
+
 ## 1. Problem Definition and Context
 
 Theory cannot sign AI's net effect on jobs: automation displaces workers from tasks, while productivity gains and new tasks pull labour back in (Acemoglu & Restrepo 2019). In Australia, about 4% of workers are in occupations with high automation exposure and 79% in occupations with low exposure, with risk concentrated in routine clerical and administrative roles (Jobs and Skills Australia [JSA] 2025).
