@@ -2,17 +2,17 @@
 
 **Prepared by:** Chris · ECON1626 Economics of Artificial Intelligence · Assessment 2
 
-This brief advises the Deputy Secretary, Employment and Workforce, Department of Employment and Workplace Relations (DEWR 2026c), on extending the Office of the Chief Economist's AI monitoring framework before quarterly updates resume in late 2026 (DEWR 2026a), and informs DEWR's input to the Joint Select Committee on Artificial Intelligence, reporting by 30 November 2026 (Parliament of Australia 2026).
+This brief advises the Deputy Secretary, Employment and Workforce, Department of Employment and Workplace Relations (DEWR 2026c), on extending DEWR's AI monitoring framework before quarterly updates resume in late 2026 (DEWR 2026a), and informs DEWR's input to the Joint Select Committee on Artificial Intelligence, reporting by 30 November 2026 (Parliament of Australia 2026).
 
 ## Executive Summary
 
-DEWR finds no broad AI disruption in Australia yet, but employment in the most-exposed occupations is growing more slowly, and US evidence suggests the first effect will be fewer young people hired into exposed jobs. DEWR's framework cannot see that channel and attaches no response to any result. Four options are compared against five criteria, and a universal skills credit (~$7.4b) is rejected as poorly targeted. The recommended package builds the sensor now, adding payroll, hiring-by-age and wage indicators; pilots an entry pathways subsidy for young workers; and legislates wage insurance that switches on only when published triggers are met. It costs about $54m a year until a trigger fires. The first KPI is an STP-based monitoring update by 31 March 2027.
+DEWR finds no broad AI disruption in Australia yet, but employment in the most-exposed occupations is growing more slowly, and US evidence suggests the first effect will be fewer young people hired into exposed jobs. DEWR's framework cannot see that channel and attaches no response to any result. Of four options, a universal skills credit (~$7.4b) is rejected as poorly targeted. The recommended package builds the sensor now, adding payroll, hiring-by-age and wage indicators; pilots an entry pathways subsidy for young workers; and legislates wage insurance that switches on only at published triggers. It costs about $54m a year until triggered.
 
 ## 1. Problem Definition and Context
 
-Theory cannot sign AI's net effect on jobs: automation displaces workers from tasks, while productivity gains and new tasks pull labour back in (Acemoglu & Restrepo 2019). In Australia, about 4% of workers are in occupations with high automation exposure and 79% in occupations with low exposure, with risk concentrated in routine clerical and administrative roles (Jobs and Skills Australia [JSA] 2025).
+Theory cannot sign AI's net effect on jobs: automation displaces workers from tasks, while productivity gains and new tasks pull labour back in (Acemoglu & Restrepo 2019). In Australia, about 4% of workers are in occupations with high automation exposure and 79% in low-exposure occupations, with risk concentrated in routine clerical and administrative roles (Jobs and Skills Australia [JSA] 2025).
 
-A worker's loss is not automatically a market failure (Berg 2026). The problem this brief addresses is mainly one of **adjustment and insurance**: skills can lose value faster than workers can retrain, and few workers can insure against that risk privately. A secondary **information** problem justifies public monitoring: timely labour-market evidence is a public good no firm has reason to produce.
+A worker's loss is not automatically a market failure (Berg 2026). The problem is mainly one of **adjustment and insurance**: skills can lose value faster than workers can retrain, and few workers can insure against that risk privately. A secondary **information** problem justifies public monitoring: timely labour-market evidence is a public good no firm has reason to produce.
 
 DEWR's framework has four gaps. It measures employment only, not wages or tasks within jobs; its survey is limited in splitting occupational trends by age; it publishes nothing until late 2026 while the ABS reclassifies occupations (DEWR 2026a); and no response is attached to any result. Given slow diffusion, finding no effect yet offers little reassurance.
 
@@ -24,7 +24,7 @@ Unemployment was 4.5% in July 2026 (ABS 2026), but employment in the most-expose
 
 ### 2.2 Tasks and hiring
 
-The first adjustment is likely to come through hiring. In the US, employment of 22–25 year olds in highly exposed occupations sits about 19% below the path of less-exposed peers, through reduced hiring rather than separations, and mainly where AI automates tasks (Brynjolfsson et al. 2026). AI lifted novice productivity by 34% against 14% on average (Brynjolfsson et al. 2025), so it substitutes most closely for entry-level work, and firms can shrink graduate intake without dismissing anyone. Australia's hiring rate has fallen from 5.5% to 4.2% since November 2022, which DEWR attributes mainly to fewer job-to-job moves, and young people feel hiring slowdowns first. Youth employment has held up so far, but early administrative data show lower hiring among younger exposed workers (DEWR 2026a).
+The first adjustment is likely to come through hiring. In the US, employment of 22–25 year olds in highly exposed occupations sits about 19% below the path of less-exposed peers, through reduced hiring rather than separations, and mainly where AI automates tasks (Brynjolfsson et al. 2026). AI lifted novice productivity by 34% against 14% on average (Brynjolfsson et al. 2025), so it substitutes most closely for entry-level work, and firms can shrink graduate intake without dismissing anyone. Australia's hiring rate has fallen from 5.5% to 4.2% since November 2022, which DEWR attributes mainly to fewer job-to-job moves. Youth employment has held up so far, but early administrative data show lower hiring among younger exposed workers (DEWR 2026a).
 
 ### 2.3 Wages
 
@@ -62,13 +62,13 @@ Criteria: **efficiency** (targeting, deadweight), **equity** (reach to §2.5's g
 
 **B has the strongest evidence.** RTAA eligibility raised employment by 8–17 percentage points and paid for itself (Hyman et al. 2024). Germany's Qualifizierungsgeld acts earlier, replacing 60% of lost net pay during retraining, but favours insiders (Bundesagentur für Arbeit 2026; Berg 2026). Both reach only people with a job to lose, and §2.2 suggests the first losers are young people never hired.
 
-**C reaches that group**, with deadweight that the new-positions rule only partly limits (DEWR 2026b). **D closes the blind spot cheaply but helps no worker directly.** No option dominates: D plus a ready B and C covers both groups, and A is rejected.
+**C reaches that group**, with deadweight that the new-positions rule only partly limits (DEWR 2026b). **D closes the blind spot cheaply but helps no worker directly.** No option dominates: D plus a ready B and C covers both groups.
 
 *Costing note (author's estimates):* B assumes average claims at 56% of the cap (the RTAA ratio; Hyman et al. 2024) and 12,000 claimants a year, 2% of ~590,000 high-exposure workers (JSA 2025; ABS 2026).
 
 ## 4. Recommended Package and Implementation Plan
 
-**See early, respond on cue:** build D now, pilot C, and legislate B but hold it dormant. Regulators cannot foresee how a technology will develop, so the package commits to rules and review points instead of forecasts (Hayek 1945; Berg 2026).
+**See early, respond on cue:** build D now, pilot C, and legislate B but hold it dormant. Regulators cannot foresee how technology will develop, so the package commits to rules and review points, not forecasts (Hayek 1945; Berg 2026).
 
 | Phase | Action | Lead | When | Cost | KPI |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@ Criteria: **efficiency** (targeting, deadweight), **equity** (reach to §2.5's g
 
 **Trigger.** B activates, and C scales to 15,000 places, when the exposure–employment relationship is significantly negative under DEWR's alternative measures for two quarters, DEWR's own confidence test (DEWR 2026a), or when youth hiring in top-quintile occupations falls a set margin below the least-exposed quintile.
 
-**Who pays and who gains.** Phases 1–2 cost about $54m a year ($0.2b over four years, against $7.4b for option A), reprioritised within DEWR's employment-services budget. A triggered B draws on consolidated revenue, and RTAA's record suggests much of it returns through higher earnings and taxes. A proposed US bill would fund worker transition by limiting AI data-centre tax concessions (Warner 2026); Australia's data-centre workforce conditions offer a similar hook (Berg 2026). Young entrants and displaced workers gain, while taxpayers carry a small, capped cost, as the Productivity Commission anticipates (PC 2025).
+**Who pays and who gains.** Phases 1–2 cost about $54m a year ($0.2b over four years, against $7.4b for option A), reprioritised within DEWR's employment-services budget. A triggered B draws on consolidated revenue, and RTAA's record suggests much of it returns through higher earnings and taxes. A proposed US bill would fund worker transition by limiting AI data-centre tax concessions (Warner 2026); Australia's data-centre workforce conditions offer a similar hook (Berg 2026). Young entrants and displaced workers gain, while taxpayers carry a small, capped cost, as the PC (2025) anticipates.
 
 ## 5. Risks and Mitigations
 
